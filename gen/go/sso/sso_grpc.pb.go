@@ -4,7 +4,7 @@
 // - protoc             v5.29.3
 // source: sso/sso.proto
 
-package nicknameisvailable_sso_grpc
+package ssov1
 
 import (
 	context "context"
